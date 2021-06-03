@@ -1,0 +1,14 @@
+https://git-scm.com/download/win
+
+add the git in the vs code 
+
+file>performace>setting>terminal.integrated.shell.Window
+past the below code.
+
+
+ "editor.fontSize": 26,
+    "editor.wordWrap":"on",
+    "editor.tabSize": "2",
+    "terminal.integrated.fontSize": 26,
+    "terminal.integrated.automationShell.windows": "C:/Program Files/Git/bin/bash.exe"
+
